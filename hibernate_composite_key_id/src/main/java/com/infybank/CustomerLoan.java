@@ -5,6 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.IdClass;
 import javax.persistence.Table;
 
+//
 @Entity
 @Table(name = "CUSTOMER3")
 @IdClass(CustomerLoanPK.class)
