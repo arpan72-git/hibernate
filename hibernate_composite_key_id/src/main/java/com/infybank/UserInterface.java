@@ -11,6 +11,7 @@ public class UserInterface {
         	 //dadada
         	 //dfwe
              System.out.println("Enter the Customer Loan details");
+             //ewwr
              Scanner sc = new Scanner(System.in);
              System.out.println("Enter the Customer Id");
              Integer cid = sc.nextInt();
