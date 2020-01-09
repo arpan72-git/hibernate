@@ -7,6 +7,7 @@ public class UserInterface {
     public static void main(String[] args) {
     	 CustomerDAO customerdao = new CustomerDAO();
          try {
+        	 //asdasd
              System.out.println("Enter the Customer Loan details");
              Scanner sc = new Scanner(System.in);
              System.out.println("Enter the Customer Id");
