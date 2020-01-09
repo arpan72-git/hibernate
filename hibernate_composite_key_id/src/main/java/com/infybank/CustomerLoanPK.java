@@ -1,7 +1,7 @@
 package com.infybank;
 
 import java.io.Serializable;
-
+//
 @SuppressWarnings("serial")
 public class CustomerLoanPK implements Serializable {
     private Integer customerId;
