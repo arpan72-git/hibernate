@@ -9,6 +9,7 @@ public class UserInterface {
          try {
         	 //asdasd
         	 //dadada
+        	 //dfwe
              System.out.println("Enter the Customer Loan details");
              //wew
              Scanner sc = new Scanner(System.in);
