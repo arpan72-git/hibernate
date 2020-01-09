@@ -10,6 +10,7 @@ public class UserInterface {
         	 //asdasd
         	 //dadada
              System.out.println("Enter the Customer Loan details");
+             //wew
              Scanner sc = new Scanner(System.in);
              System.out.println("Enter the Customer Id");
              Integer cid = sc.nextInt();
