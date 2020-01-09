@@ -14,6 +14,7 @@ public class CustomerLoan {
     @Id
     private String loanId;
     private Double eligibleAmount;
+    
     private Double availedAmount;
     private Float tenureInYears;
     
